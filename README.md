@@ -44,4 +44,4 @@ So here 60,000 images will be used for training and 10,000 for testing.
 
 3. Now Neural Networrks are linear that means that if we multiply the input with the weights and add a bias then we get a linear output. But, real life applications are not linear so to get a non linear output we need to use an activation function which is used in hidden layers to give us a non linear output. There are man activation functions but here I have used softmax. 
 
-4. To figure out the accuracy of our neural network we introduce a loss function which gives us a numerical estimate of how much the neural network has to be corrected   
+4. To figure out the accuracy of our neural network we introduce a loss function which gives us a numerical estimate of how much the neural network has to be corrected.   
