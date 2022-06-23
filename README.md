@@ -28,6 +28,7 @@ The major steps which have been carried out are:
 7. analyzing the accuracy and the loss 
 
 With respect to this project and the code I have written, we first start by importing all the useful modules.
+
 What are Modules?
 Modules are files which contain functions which can be used according to our requirements. 
 
