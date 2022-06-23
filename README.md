@@ -17,7 +17,7 @@ The major steps which have been carried out are:
 1. importing the modules we require
 2. loading the dataset 
 3. plotting the dataset 
-4. creating a neural netwrok model 
+4. creating a neural network model 
 5. training the model which we have created 
 6. finally testing the model which we have created! 
 7. analyzing the accuracy and the loss 
@@ -29,5 +29,7 @@ Modules are files which contain functions which can be used.
 Then after importing we can use either Keras or Tensorflow to build our neural network. 
 Tensorflow is a free,open source and more detailed library used to develop neural networks, it is a bit tough to code so I have used Keras (which is a more easier to use tool and is built upon TensorFlow) for learning purposes. Apart from developing neural networks, Keras also has the ability to download Datasets like MNIST. 
 
-After downloading the dataset we will divide the data in to 2 sets, onw will be the training dataset and the other one will be the testing dataset. Generally 80% of data is used for training and 20% for testing. 
-So here 
+After downloading the dataset we will divide the data into 2 sets, one will be the training dataset and the other will be the testing dataset. Generally 80% of data is used for training and 20% for testing. 
+So here 60,000 images will be used for training and 10,000 for testing.
+
+
